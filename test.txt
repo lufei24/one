@@ -6,7 +6,11 @@ on master branch
 on dev branch
 >>>>>>> dev
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 再次修改
+=======
+八八八八八
+>>>>>>> Stashed changes
 =======
 八八八八八
 >>>>>>> Stashed changes
