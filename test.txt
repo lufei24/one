@@ -1,3 +1,7 @@
 这是第一个git文件，英语基础太渣了完全摸索不透啊.. 但是还要一点点翻译一点点弄明白才行 
 this's my first git file,but my English is bad..
+<<<<<<< HEAD
 on master branch
+=======
+on dev branch
+>>>>>>> dev
