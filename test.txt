@@ -3,4 +3,3 @@ this's my first git file,but my English is bad..
 new aa
 master&aaa
 stash2
-
